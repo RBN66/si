@@ -1,9 +1,9 @@
 import streamlit as st
 from datetime import datetime, timedelta
 
-from librerias.hojaCalc import insertarFila
-from librerias.enviarMail import enviarMail
-from librerias.agendarCita import agendarCita
+#from librerias.hojaCalc import insertarFila
+#from librerias.enviarMail import enviarMail
+#from librerias.agendarCita import agendarCita
 
 st.set_page_config(page_title='Google API conexiones', page_icon='📅')
 # Formulario en Streamlit
